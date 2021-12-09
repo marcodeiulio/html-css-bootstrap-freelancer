@@ -12,6 +12,10 @@ header {
 	background-color: pink;
 }
 
+#bottom-footer {
+	height: 100px;
+}
+
 .card {
 	padding: 30%;
 	max-width: 400px;
