@@ -1,5 +1,9 @@
+header {
+	height: 100px;
+}
+
 .bg-dark {
-background-color: #3a546d;	
+	background-color: #3a546d;
 }
 
 .bg-darker {
